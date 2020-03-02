@@ -14,5 +14,7 @@ Using VueMapbox [See Docs](https://soal.github.io/vue-mapbox/).
 
 Connect to a Postgres Database.
 
+Seed for map data [JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
+
 Deploy to a web server with Node.js or compatible cloud app service.
 
