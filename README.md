@@ -10,6 +10,8 @@ Install dependencies.
 
 Signup with Mapbox and get a public access token for your web map.
 
+Using VueMapbox [See Docs](https://soal.github.io/vue-mapbox/).
+
 Connect to a Postgres Database.
 
 Deploy to a web server with Node.js or compatible cloud app service.
